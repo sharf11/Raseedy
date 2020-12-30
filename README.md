@@ -1,6 +1,6 @@
-# SITAF-SAUDIA
+# Raseedy
 
-Sitaf for Trade is part of Group Sitaf , establish in 1976 in the Kingdom of Saudi Arabia . Sitaf for Trade hasbeen establish in 2012 as import and distribution company focused on italian foodstaff , fresh seafood and japanese products
+Raseedy for Trade is part of Group Sitaf , establish in 1976 in the Kingdom of Saudi Arabia . Sitaf for Trade hasbeen establish in 2012 as import and distribution company focused on italian foodstaff , fresh seafood and japanese products
 -----------
 
 E-commerce website specializing in the sale of modern products and modern home products
@@ -28,6 +28,4 @@ Screenshot
 About me
 -----------
  You can follow me at:
-1. [Linkedin](https://github.com/AhmeHalim)
-2. [Linkedin](https://www.linkedin.com/in/ahmed-abd-el-halim/)
-3. [Facebook](https://www.facebook.com/ahmed.elgheny.14)
+1. [Linkedin](https://www.linkedin.com/in/sharaf-muhammad-111a97147)
