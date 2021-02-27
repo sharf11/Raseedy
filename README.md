@@ -1,9 +1,6 @@
 # Raseedy
 
-Raseedy for Trade is part of Group Sitaf , establish in 1976 in the Kingdom of Saudi Arabia . Sitaf for Trade hasbeen establish in 2012 as import and distribution company focused on italian foodstaff , fresh seafood and japanese products
------------
-
-E-commerce website specializing in the sale of modern products and modern home products
+E-commerce App specializing in the Carts and online Payment
 
 <!--Live Website preview
 -----------
@@ -11,12 +8,12 @@ E-commerce website specializing in the sale of modern products and modern home p
 -->
  Key features: 
 -----------
-* authentication by social login [Google and Facebook] and Capatcha for confiremation 
-* Advanced search by product name, category , and brand.
+* User Mangement
 * shopping Cart and wish list to saved items for later times.
-* Shipping system by region and areas multiple shipping methods like(Interno delivery,Bosta , Aramex , Fedex).
-* checkout with different payment methods.
-* admin dashboard to control the content of the website view
+* Shipping system by Category 
+* checkout with different payment methods.(PayPal 
+&Scratch and Bitcoin)
+* Print cart in Pos System
 
 Screenshot
 -----------
