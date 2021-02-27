@@ -21,7 +21,7 @@ E-commerce website specializing in the sale of modern products and modern home p
 Screenshot
 -----------
 <p>
-  <img src="Screenshot_20201230-222636.jpg" width="100%" />
+  <img src="Screenshot_20201230-222636.jpg" width="100",height="150" />
 </p>
 
 
