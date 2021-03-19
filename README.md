@@ -9,6 +9,7 @@ E-commerce App specializing in the Carts and online Payment
  Key features: 
 -----------
 * User Mangement
+* Firbase Notification
 * shopping Cart and wish list to saved items for later times.
 * Shipping system by Category 
 * checkout with different payment methods.(PayPal 
